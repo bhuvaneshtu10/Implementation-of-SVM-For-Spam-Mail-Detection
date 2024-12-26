@@ -17,14 +17,16 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
+Developed by: BHUVANESHWARAN TU
+RegisterNumber:  24009351
 */
 ```
+![Screenshot 2024-12-26 115359](https://github.com/user-attachments/assets/b3161a02-a350-45bf-90a4-cace881bf8dd)
 
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
 
+![Screenshot 2024-12-26 115347](https://github.com/user-attachments/assets/1976ce3e-0b35-44cf-919a-8a164f69ec89)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
